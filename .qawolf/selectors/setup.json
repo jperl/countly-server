@@ -1,0 +1,200 @@
+[
+  {
+    "index": 0,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input autocapitalize=\"off\" autocomplete=\"off\" type=\"text\" name=\"full_name\" placeholder=\"Full Name\" data-localize=\"placeholder.full-name\"/>"
+    }
+  },
+  {
+    "index": 1,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input autocapitalize=\"off\" autocomplete=\"off\" type=\"text\" name=\"full_name\" placeholder=\"Full Name\" data-localize=\"placeholder.full-name\"/>"
+    }
+  },
+  {
+    "index": 2,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input autocapitalize=\"off\" autocomplete=\"off\" type=\"text\" name=\"full_name\" placeholder=\"Full Name\" data-localize=\"placeholder.full-name\"/>"
+    }
+  },
+  {
+    "index": 3,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input autocapitalize=\"off\" autocomplete=\"off\" type=\"text\" name=\"email\" placeholder=\"Email\" data-localize=\"placeholder.email\"/>"
+    }
+  },
+  {
+    "index": 4,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input autocapitalize=\"off\" autocomplete=\"off\" type=\"text\" name=\"email\" placeholder=\"Email\" data-localize=\"placeholder.email\"/>"
+    }
+  },
+  {
+    "index": 5,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input type=\"text\" autocapitalize=\"off\" autocomplete=\"off\" name=\"username\" placeholder=\"Username\" data-localize=\"placeholder.username\"/>"
+    }
+  },
+  {
+    "index": 6,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input type=\"text\" autocapitalize=\"off\" autocomplete=\"off\" name=\"username\" placeholder=\"Username\" data-localize=\"placeholder.username\"/>"
+    }
+  },
+  {
+    "index": 7,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input name=\"password\" type=\"password\" autocomplete=\"off\" placeholder=\"Password\" data-localize=\"placeholder.password\"/>"
+    }
+  },
+  {
+    "index": 8,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<form method=\"POST\"></form>"],
+      "node": "<input name=\"password\" type=\"password\" autocomplete=\"off\" placeholder=\"Password\" data-localize=\"placeholder.password\"/>"
+    }
+  },
+  {
+    "index": 9,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"add-app-input-wrapper\"></div>",
+        "<div id=\"add-first-app\" style=\"display: block;\"></div>"
+      ],
+      "node": "<input value=\"\" placeholder=\"Enter application name...\" data-localize=\"placeholder.app-name\" class=\"add-app-input-text\" type=\"text\" id=\"first-app-add-name\"/>"
+    }
+  },
+  {
+    "index": 10,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"add-app-input-wrapper\"></div>",
+        "<div id=\"add-first-app\" style=\"display: block;\"></div>"
+      ],
+      "node": "<input value=\"\" placeholder=\"Enter application name...\" data-localize=\"placeholder.app-name\" class=\"add-app-input-text\" type=\"text\" id=\"first-app-add-name\"/>"
+    }
+  },
+  {
+    "index": 11,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"text-container\"></div>",
+        "<div class=\"select-inner\"></div>"
+      ],
+      "node": "<div class=\"text\" id=\"first-app-add-type\" data-localize=\"management-applications.type.tip\" innertext=\"Choose application type\">Choose application type</div>"
+    }
+  },
+  {
+    "index": 12,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div></div>",
+        "<div class=\"scroll-list\" style=\"overflow: hidden; width: auto; height: 100%;\"></div>"
+      ],
+      "node": "<div data-value=\"web\" class=\"item\" innertext=\"Web\">Web</div>"
+    }
+  },
+  {
+    "index": 13,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"text-container\"></div>",
+        "<div class=\"select-inner\"></div>"
+      ],
+      "node": "<div class=\"text\" innertext=\"\"></div>"
+    }
+  },
+  {
+    "index": 14,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"inner\"></div>",
+        "<div class=\"search\"></div>"
+      ],
+      "node": "<input type=\"text\"/>"
+    }
+  },
+  {
+    "index": 15,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div id=\"country-items\"></div>",
+        "<div class=\"scroll-list\" style=\"overflow: hidden; width: auto; height: 100%;\"></div>"
+      ],
+      "node": "<div data-value=\"GB\" class=\"item\" innertext=\"United Kingdom\"><div class=\"flag gb\" style=\"background-image:url(images/flags/gb.png)\"></div>United Kingdom</div>"
+    }
+  },
+  {
+    "index": 16,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"add-app-input-wrapper\"></div>",
+        "<div class=\"add-app-input-wrapper\"></div>"
+      ],
+      "node": "<label class=\"populate-checkbox-container\" innertext=\"Populate app with random data for demo after creation\"><input id=\"populate-first-app-after\" type=\"checkbox\"/><span class=\"checkmark\"></span>Populate app with random data for demo after creation</label>"
+    }
+  },
+  {
+    "index": 17,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"add-app-input-wrapper\"></div>",
+        "<div id=\"add-first-app\" style=\"display: block;\"></div>"
+      ],
+      "node": "<a id=\"save-first-app-add\" class=\"add-first-app-button\" data-localize=\"management-applications.add-application\" innertext=\"Add application\">Add application</a>"
+    }
+  },
+  {
+    "index": 18,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<div class=\"buttons\"></div>"],
+      "node": "<div id=\"dialog-continue\" class=\"icon-button light\" innertext=\"Yes, populate data\">Yes, populate data</div>"
+    }
+  },
+  {
+    "index": 19,
+    "page": 0,
+    "html": {
+      "ancestors": [
+        "<div class=\"stop-container\"></div>",
+        "<div id=\"populator-modal-content\"></div>"
+      ],
+      "node": "<a href=\"#\" id=\"stop-populate\" class=\"stop-populate\" data-localize=\"populator.stop\" innertext=\"Stop Generating\">Stop Generating</a>"
+    }
+  },
+  {
+    "index": 20,
+    "page": 0,
+    "html": {
+      "ancestors": ["<div></div>", "<div class=\"buttons\"></div>"],
+      "node": "<div id=\"dialog-continue\" class=\"icon-button light\" data-localize=\"common.continue\" innertext=\"Continue\">Continue</div>"
+    }
+  }
+]
